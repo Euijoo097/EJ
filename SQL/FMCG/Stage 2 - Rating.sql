@@ -8,5 +8,5 @@ SELECT
 FROM Purchase
 group by customer_name
 order by rating ASC
-
     LIMIT 13
+
