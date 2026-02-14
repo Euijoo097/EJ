@@ -1,39 +1,39 @@
-# Data Analytics & Business Intelligence Portfolio
-
-## Technical Profile
-
-Data Analyst with hands-on experience in SQL querying, data wrangling, exploratory data analysis (EDA), KPI development, and dashboard reporting. Strong understanding of relational databases, data transformation processes, and business performance metrics.
-
-This repository contains structured, end-to-end analytical projects simulating real-world business cases.
+# 📊 Data Analytics Portfolio  
+### SQL | Python | Business Intelligence | Data Visualization
 
 ---
 
-## Technical Skills
+## 👩‍💻 Professional Profile
+Results-driven Data Analyst with hands-on experience in SQL querying, Python-based data analysis, KPI development, and dashboard reporting. Experienced in transforming raw datasets into structured analytical insights to support data-driven business decision-making.
 
-### Programming & Querying
-- SQL (SELECT, JOIN, GROUP BY, HAVING, CTE, Subqueries, Window Functions)
+---
+
+## 🛠 Technical Skills
+
+### 💾 Programming & Querying
+- SQL (JOIN, GROUP BY, CTE, Subqueries, Window Functions)
 - Python (Pandas, NumPy, Matplotlib)
-- Basic Statistical Analysis
+- Query Optimization
+- Data Aggregation & Transformation
 
-### Data Processing
-- Data Cleaning & Validation
-- Missing Value Handling
-- Data Type Transformation
-- Data Aggregation & Grouping
-- Data Modeling (Relational Structure)
+### 📊 Data Analysis
+- Exploratory Data Analysis (EDA)
+- Statistical Summary Analysis
+- KPI & Performance Metrics Development
+- Trend & Comparative Analysis
+- Business Insight Generation
 
-### Business Intelligence
-- KPI Definition & Measurement
-- Performance Metrics Analysis
-- Trend & Time Series Analysis
-- Comparative & Segmentation Analysis
-- Dashboard Development (Power BI / Tableau)
+### 📈 Visualization & Reporting
+- Power BI
+- Tableau
+- Excel (Pivot Tables, Data Modeling)
+- Dashboard Design & Storytelling
 
-### Tools
-- Excel (Pivot Tables, Lookup Functions, Data Modeling)
-- SQLite / Relational Databases
+### ⚙️ Tools & Workflow
 - Git & GitHub (Version Control)
-- Jupyter Notebook
+- Data Cleaning & Validation
+- Structured Analytical Framework
+- End-to-End Project Documentation
 
 ---
 
