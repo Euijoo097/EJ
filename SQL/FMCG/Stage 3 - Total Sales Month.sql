@@ -1,5 +1,6 @@
--- Quiz --
--- The Month WHICH THE MOST SUCCEEDED total_sales transactions--
+-- Quiz 3 --
+
+/* The Month WHICH THE MOST SUCCEEDED total_sales transactions */
 
 -- SPECIAL STAGE --
 
@@ -11,4 +12,5 @@ FROM Purchase
 WHERE status = 'Success'
 GROUP BY month
 ORDER BY Succeeded DESC
+
     LIMIT 1
