@@ -1,6 +1,7 @@
--- QUIZ --
--- PROMO which successfully for total_sales with cooking oil productions --
--- DOUBLE DATE VS PAYDAY SALE !? --
+-- QUIZ 5 --
+
+/* PROMO which successfully for total_sales with cooking oil productions */
+/*	DOUBLE DATE VS PAYDAY SALES !? */
 
 -- FINAL SPECIAL STAGE --
 
@@ -22,4 +23,5 @@ WHERE product_name = 'Minyak Goreng'
       )
 GROUP BY product_name, sale_event
 ORDER BY total_sales DESC
+
 
