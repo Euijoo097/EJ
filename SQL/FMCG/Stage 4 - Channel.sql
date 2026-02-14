@@ -1,5 +1,6 @@
--- QUIZ --
--- Channel which having least disc but become the most succeeded transactions --
+-- QUIZ 4 --
+
+/* Channel which having least disc but become the most succeeded transactions */
 
 SELECT
     channel,
@@ -10,4 +11,5 @@ WHERE status = 'Success'
 GROUP BY channel
 ORDER BY transaction_totals DESC
     LIMIT 1
+
 
