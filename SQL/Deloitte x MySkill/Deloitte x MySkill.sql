@@ -35,9 +35,10 @@ ORDER BY first_name DESC
 /* CALCULATING Total Amounts of Users BASED BY Genders ... */
 SELECT gender,
 	COUNT (gender) AS AMOUNTS
-FROM data_thelook_users dtu 
+FROM data_thelook_users 
 GROUP BY gender
 
 
 -- STAGE CLEAR --
+
 
