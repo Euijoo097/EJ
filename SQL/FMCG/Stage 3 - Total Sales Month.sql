@@ -12,5 +12,5 @@ FROM Purchase
 WHERE status = 'Success'
 GROUP BY month
 ORDER BY Succeeded DESC
-
     LIMIT 1
+
